@@ -1,0 +1,3 @@
+token=NTUxMzY5OTk0NTI1NzM2OTcw.D2Kw7Q.IaqRNK5olqfAEbMzzLy4CtuZBbU
+owner=538337750701572106
+prefix=1play
